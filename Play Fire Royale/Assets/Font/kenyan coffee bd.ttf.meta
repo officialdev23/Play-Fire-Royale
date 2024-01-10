@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4e1d358bec014787afb5a82ba94fd204
+timeCreated: 1568303837
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "kenyan coffee bd"
+  fontNames:
+  - Kenyan Coffee
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

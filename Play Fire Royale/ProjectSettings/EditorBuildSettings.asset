@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/abertura.unity
+    guid: 4b024170d5b836a4e9120c38217383cd
+  - enabled: 1
+    path: Assets/intro.unity
+    guid: 2ef3ea1d09dc4a641b5c7abddc798cbb
+  - enabled: 1
+    path: Assets/loadmenu2.unity
+    guid: 5e2b3a86f907f6641853596122817df1
+  - enabled: 1
+    path: Assets/savename.unity
+    guid: a13d7895a0b354d4ca782e515bc2a497
+  - enabled: 1
+    path: Assets/menuoficial.unity
+    guid: 0718ab21623cee2459ec40d8262e3fd6
+  - enabled: 1
+    path: Assets/loadmenuok.unity
+    guid: 3c2facd5183fcaa4b9e9808d506cb20d
+  - enabled: 1
+    path: Assets/loadmenu.unity
+    guid: 60fa2cc64a5ca654bb08cc150b485eee
+  - enabled: 1
+    path: Assets/RANK_EVENTS/EasyHighScores/EasyHighScoresuGUI/Scenes/rank.unity
+    guid: fed11c37f62574c428e0ceabd9e6b229
+  - enabled: 1
+    path: Assets/loadgame0.unity
+    guid: cb274d971ee126345a19d1e9f03f42db
+  - enabled: 1
+    path: Assets/loadgame1.unity
+    guid: a4f397aa212c3f442945acd6c1eca833
+  - enabled: 1
+    path: Assets/gameplay_royale.unity
+    guid: 6ad57eb8269a89a4093f6855dae90779
+  - enabled: 1
+    path: Assets/gameplay_zombie.unity
+    guid: a52067afd9c8841499c0e7db26ad2c3c

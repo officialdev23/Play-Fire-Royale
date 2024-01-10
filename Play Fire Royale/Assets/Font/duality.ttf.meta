@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6cbd56490e8949cb9b6a4111ad9b699e
+timeCreated: 1568303521
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "duality"
+  fontNames:
+  - Duality
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

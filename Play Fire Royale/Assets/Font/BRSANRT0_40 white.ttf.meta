@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4309654c1a1450eb6f507540a4e0fce
+timeCreated: 1568303452
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 40
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "BRSANRT0_40 white"
+  fontNames:
+  - San Diego
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
